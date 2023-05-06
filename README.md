@@ -1,8 +1,7 @@
+
+
 <div align="left">
-
-  <a href="https://github.com/OliveiraAnna99/convoychat"></a>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=OliveiraAnna99&theme=radical" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraAnna99&theme=radical&langs_count=10" />
-
- 
+  <a href="https://github.com/OliveiraAnna99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OliveiraAnna99&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuViniciuslima&layout=compact&langs_count=7&theme=jolly"/>
 </div>
